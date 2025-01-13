@@ -10,4 +10,4 @@ The hypothesis was that changing the poverty cutoff line will have an effect on 
 #### Quick Summary of Results
 The poverty line cutoff did have a statistically significant impact on the amount of welfare one would receive, in this case, the regression model estimated that increasing the poverty cutoff line would increase the amount of welfare one would receive. One factor that was worth noting however was that the Disability Status control variable actually had a major impact on whether someone would need welfare or not, with those that was disabled in the regression model estimated to receive approximately $1079 more in welfare income than someone that did not have a disability. 
 ###### Knowledge Used:
-OLS Regression modeling, statistical research and hypothesis testing, independant variables, dependant variables, control variables, Stata, summary statistics
+OLS Regression modeling, statistical research and hypothesis testing, independant variables, dependant variables, control variables, Stata, summary statistics, data cleaning
