@@ -1,6 +1,8 @@
 # Effect-That-the-Poverty-Cutoff-Line-Can-Have-on-Welfare-Distribution-Research
 ### Sypnosis of Research Project for ECMT 463 (Introduction to Econometrics)
 ----------------
+#### Disclaimer: This is a quick summary of the scenario, method, and results for this topic that I researched and is not comprehensive. For more comprehensive details, check the research paper pdf that is attached in the main branch of this repository.
+----------------
 #### Scenario: 
 Asessed the effect that changing the poverty cutoff line could have on welfare distribution. 
 #### Method:
